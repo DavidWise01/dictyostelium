@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "dictyostelium-discoideum",
+    "name": "Dictyostelium discoideum",
+    "epithet": "the social amoeba · natural",
+    "emergence": "natural",
+    "moniker": "⟦Dictyostelium discoideum:DCT:20021e⟧"
+  },
+  {
+    "slug": "the-lone-amoeba",
+    "name": "The Lone Amoeba",
+    "epithet": "the free-living cell · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Lone Amoeba:DCT:9377a5⟧"
+  },
+  {
+    "slug": "cyclic-amp",
+    "name": "Cyclic AMP",
+    "epithet": "the call to assemble · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Cyclic AMP:DCT:b39530⟧"
+  },
+  {
+    "slug": "the-aggregation",
+    "name": "The Aggregation",
+    "epithet": "loners become a crowd · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Aggregation:DCT:14102e⟧"
+  },
+  {
+    "slug": "the-slug",
+    "name": "The Slug (Grex)",
+    "epithet": "the migrating collective · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Slug (Grex):DCT:1bd163⟧"
+  },
+  {
+    "slug": "the-fruiting-body",
+    "name": "The Fruiting Body",
+    "epithet": "stalk and spore · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Fruiting Body:DCT:5c846e⟧"
+  },
+  {
+    "slug": "altruism-and-the-stalk",
+    "name": "Altruism and the Stalk",
+    "epithet": "dying to lift the rest · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Altruism and the Stalk:DCT:5774cd⟧"
+  },
+  {
+    "slug": "the-cheaters",
+    "name": "The Cheaters",
+    "epithet": "the freeloaders in the puddle · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Cheaters:DCT:567c26⟧"
+  },
+  {
+    "slug": "the-excitable-medium",
+    "name": "The Excitable Medium",
+    "epithet": "the math of the waves · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Excitable Medium:DCT:72367d⟧"
+  },
+  {
+    "slug": "chemotaxis",
+    "name": "Chemotaxis",
+    "epithet": "crawling up the gradient · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Chemotaxis:DCT:d02d6f⟧"
+  },
+  {
+    "slug": "john-tyler-bonner",
+    "name": "John Tyler Bonner",
+    "epithet": "the father of the field, 1920–2019 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦John Tyler Bonner:DCT:0a784a⟧"
+  }
+]

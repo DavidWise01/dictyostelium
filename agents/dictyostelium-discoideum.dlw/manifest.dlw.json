@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Dictyostelium discoideum",
+  "universe": "DCT · Dictyostelium discoideum (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Dictyostelium discoideum:DCT:20021e⟧",
+  "carbon": "dictyostelium-discoideum.carbon.tiff (TIFF)",
+  "silicon": "dictyostelium-discoideum.silicon.png (PNG)",
+  "seal_sha256": "14c91578e4cb46eecf15892d852511db87ce31aefadb84bfae44e0e773be1e74",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

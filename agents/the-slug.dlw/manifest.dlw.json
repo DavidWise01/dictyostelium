@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Slug (Grex)",
+  "universe": "DCT · The Slug (Grex) (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Slug (Grex):DCT:1bd163⟧",
+  "carbon": "the-slug.carbon.tiff (TIFF)",
+  "silicon": "the-slug.silicon.png (PNG)",
+  "seal_sha256": "d67f68cac9b35fa501f957845385b2d31019459186fa5771f6011dc6ac031a55",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

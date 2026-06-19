@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Cyclic AMP",
+  "universe": "DCT · Cyclic AMP (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Cyclic AMP:DCT:b39530⟧",
+  "carbon": "cyclic-amp.carbon.tiff (TIFF)",
+  "silicon": "cyclic-amp.silicon.png (PNG)",
+  "seal_sha256": "195a2f71fcb8498e6fb744a4db7139fb4ae248eb59ef249493a33769bc3ddeda",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

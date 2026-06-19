@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Lone Amoeba",
+  "universe": "DCT · The Lone Amoeba (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Lone Amoeba:DCT:9377a5⟧",
+  "carbon": "the-lone-amoeba.carbon.tiff (TIFF)",
+  "silicon": "the-lone-amoeba.silicon.png (PNG)",
+  "seal_sha256": "899c14e713ae6081a923e1b14fdc3748181854b596115b64afd2a2cca666d801",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

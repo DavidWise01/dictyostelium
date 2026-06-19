@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cheaters",
+  "universe": "DCT · The Cheaters (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Cheaters:DCT:567c26⟧",
+  "carbon": "the-cheaters.carbon.tiff (TIFF)",
+  "silicon": "the-cheaters.silicon.png (PNG)",
+  "seal_sha256": "bd7f17dda16b67205f3304ce94a5d3c2adfabdbe288821af32db471d32bc1eb1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

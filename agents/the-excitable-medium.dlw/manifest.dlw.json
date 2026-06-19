@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Excitable Medium",
+  "universe": "DCT · The Excitable Medium (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Excitable Medium:DCT:72367d⟧",
+  "carbon": "the-excitable-medium.carbon.tiff (TIFF)",
+  "silicon": "the-excitable-medium.silicon.png (PNG)",
+  "seal_sha256": "57562061de556e2bc78d7376c8d1aacace3f5bf5da9e7351af2393dffb5320b8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

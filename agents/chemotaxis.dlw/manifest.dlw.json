@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Chemotaxis",
+  "universe": "DCT · Chemotaxis (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Chemotaxis:DCT:d02d6f⟧",
+  "carbon": "chemotaxis.carbon.tiff (TIFF)",
+  "silicon": "chemotaxis.silicon.png (PNG)",
+  "seal_sha256": "e832784019293e13748574d5525a3ef38e710d725708f1d92598bd90076954b8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

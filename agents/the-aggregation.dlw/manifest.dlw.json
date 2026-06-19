@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Aggregation",
+  "universe": "DCT · The Aggregation (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Aggregation:DCT:14102e⟧",
+  "carbon": "the-aggregation.carbon.tiff (TIFF)",
+  "silicon": "the-aggregation.silicon.png (PNG)",
+  "seal_sha256": "ffaef291f86092a3ceccdd0769971d60efef379ae6a0f4938e929e77848edfed",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Fruiting Body",
+  "universe": "DCT · The Fruiting Body (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Fruiting Body:DCT:5c846e⟧",
+  "carbon": "the-fruiting-body.carbon.tiff (TIFF)",
+  "silicon": "the-fruiting-body.silicon.png (PNG)",
+  "seal_sha256": "aa42b2290ded1d2b7cfa1fd3fe9668bd336baf84a3b044fb34120e2d4346b330",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
