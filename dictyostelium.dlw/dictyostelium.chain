@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 774
 slug  : dictyostelium
-seal  : 03fff327d8e67d259b1554c2e5c532675c142fd7c0af999dccf5eea16a852eb5
-prev  : 7dd6aa4277f8b0080d2bef8c11c7d3084705aec18d6402291a340b07cb60d5b5
-link  : 12665f91aaa5279648ed0d9b5fff26b49d868478bba7d21eef5ed406c32870e0
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 7a3600dec5434557973c9e7708cd2274983e39b4834c6bc073e6975b89ebfdfc
+prev  : 88585c700007589179c9738774daff7a7096fb8eb6274390cfdeae642fd6fa6b
+link  : b224ac87878965d69b23b65d265e6daf410c57be2489ea6b362873096e0b2980
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
